@@ -1,7 +1,8 @@
 # Library Management System
 
 ## Overview
-The Library Management System helps manage library operations such as book borrowing, returns, and member management.
+
+The Library Management System streamlines library operations by managing book inventory, tracking borrowing and return transactions, and maintaining member and staff records. It ensures efficient book availability, loan management, and overall library organization.
 
 ## Key Entities:
 Library:
