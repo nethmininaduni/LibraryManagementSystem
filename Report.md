@@ -52,6 +52,7 @@ Resolving merge conflicts showed us how important it is to communicate and keep 
 **Best Practices for Collaboration**
 We learned to write clear commit messages, pull changes regularly, and stay organized to avoid unnecessary conflicts.
 
+
 **Conclusion**
 This project was a great hands-on experience in working with version control systems like Git and GitHub. 
 We now feel more confident collaborating on code, managing changes, and resolving conflicts. These skills will definitely help us in future projects!
