@@ -150,3 +150,14 @@ The Publisher class manages information about book publishers.
 ---
 
 With its robust functionality, this Library Management System offers an efficient and organized approach to managing library resources, ensuring a smooth experience for both librarians and members.  
+
+---
+
+## Contributors  
+
+1. 22UG1-0323 | W.G. Kasun Chamika De Mel
+2.
+3.
+4.
+
+---
