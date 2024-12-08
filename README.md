@@ -156,9 +156,9 @@ With its robust functionality, this Library Management System offers an efficien
 ## Contributors  
 
 1. 22UG1-0323 | W.G. Kasun Chamika De Mel
-2. 22UG1-0281 | Sahan Wijesinghe
-3. 22ug1-0472 | K.G. pasindu Kavishka
+2. 22UG1-0472 | K.G. Pasindu Kavishka
+3.
 4.
-5.
+5. 
 
 ---
